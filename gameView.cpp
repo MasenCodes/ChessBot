@@ -1,5 +1,5 @@
-#include "gamewindow.h"
-#include "ui_gamewindow.h"
+#include "gameView.h"
+#include "ui_gameView.h"
 
 GameWindow::GameWindow(QWidget *parent)
     : QMainWindow(parent)
