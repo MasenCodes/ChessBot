@@ -12,11 +12,13 @@ SOURCES += \
     chesspiece.cpp \
     gameView.cpp \
     main.cpp \
+    pawn.cpp \
     scene.cpp
 
 HEADERS += \
     chesspiece.h \
     gameView.h \
+    pawn.h \
     scene.h
 
 FORMS += \

@@ -6,7 +6,7 @@
 class ChessPiece: QGraphicsObject
 {
 public:
-    ChessPiece();
+    ChessPiece(int w, int x, int y, std::string n);
     int weight;
     int xPos;
     int yPos;
